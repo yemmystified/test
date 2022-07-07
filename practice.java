@@ -40,6 +40,8 @@ public class practice {
             System.out.println("not prime");
         }
         scan.close();
+
+        //This is part of a test
     
     }
 
